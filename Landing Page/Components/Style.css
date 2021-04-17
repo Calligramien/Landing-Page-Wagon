@@ -1,5 +1,5 @@
 
-/* Fonts Only */
+* Fonts Only */
 body {
    background: rgb(255, 255, 255);
    color: rgb(20, 20, 20);
@@ -16,6 +16,7 @@ h2 {
     font-family: 'Barlow';
     font-size: 35px;
     color: #6e8641;
+    font-weight: 900;
 }
 a {
     text-decoration: none;
@@ -43,7 +44,8 @@ a:hover {
 #Banner h1 {
     color: #6e8641;
     font-size: 100px;
-    font-family: 'Barlow; 'Black'
+    font-family: 'Barlow';
+    font-weight: 900;
 }
 
 #Banner p {
